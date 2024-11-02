@@ -8,13 +8,13 @@ What You Need:
 Unity Game Engine (tested on 2022.3.48f1)
 MetaMask Wallet web browser plugin (tested on Brave, Firefox)
 
-Polygon Amoy in your wallet (i.e. fake digital test cash)
+Polygon Amoy in your wallet (i.e. fake digital test cash)<br/>
 https://polygon.technology/blog/introducing-the-amoy-testnet-for-polygon-pos
 
-Get some here Polygon Faucet or,
+Get some here Polygon Faucet or,<br/>
 https://faucet.polygon.technology/
 
-Polygon be stingy, so request in bulk
+Polygon be stingy, so request in bulk<br/>
 https://docs.google.com/forms/d/e/1FAIpQLSe4npoGldJknEs9EBtPaV3AS-0HTso2IuMWDCiMmLEMCx8euQ/viewform
 
 From their website: "Please be aware that there is a set limit of 100 tokens per project every 90 days. All requests exceeding this amount will not be fulfilled."
@@ -22,10 +22,10 @@ From their website: "Please be aware that there is a set limit of 100 tokens per
 Tell those fucks you're a game dev and ask for 1,000 or something. Then send me some. ;-)
 
 TEST Tokens!
-Purchase test tokens (with amoy) on Rarible
+Purchase test tokens (with amoy) on Rarible<br/>
 https://testnet.rarible.com/metamaskpolygonplugin/items
 
-Or on OpenSea testnets
+Or on OpenSea testnets<br/>
 https://testnets.opensea.io/collection/metamask-polygon-web3-plugin
 
 Ready to Demo!
