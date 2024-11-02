@@ -21,23 +21,23 @@ From their website: "Please be aware that there is a set limit of 100 tokens per
 
 Tell those fucks you're a game dev and ask for 1,000 or something. Then send me some. ;-)
 
-TEST Tokens!
+TEST Tokens!<br/>
 Purchase test tokens (with amoy) on Rarible<br/>
 https://testnet.rarible.com/metamaskpolygonplugin/items
 
 Or on OpenSea testnets<br/>
 https://testnets.opensea.io/collection/metamask-polygon-web3-plugin
 
-Ready to Demo!
+Ready to Demo!<br/>
 Purchased demo tokens on testnet marketplace
 Connect wallet
 Your purchased tokens will populate
 Select a token and launch
 Selected token will instantiate game object
-
-Live Demo:
+<br/>
+Live Demo:<br/>
 https://unicorninteractive.co/unity/unity_metamask_connect/metamask_connect/
-
+<br/>
 Plugin will be available soon for download on Itch.io, Epic Games Store & Unity Store.
 
 
