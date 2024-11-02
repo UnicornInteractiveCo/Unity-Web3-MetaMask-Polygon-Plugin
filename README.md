@@ -38,6 +38,8 @@ Selected token will instantiate game object
 Live Demo:
 https://unicorninteractive.co/unity/unity_metamask_connect/metamask_connect/
 
+Plugin will be available soon for download on Itch.io, Epic Games Store & Unity Store.
+
 
 
 
