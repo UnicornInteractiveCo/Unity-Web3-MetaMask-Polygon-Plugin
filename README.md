@@ -29,15 +29,15 @@ Or on OpenSea testnets<br/>
 https://testnets.opensea.io/collection/metamask-polygon-web3-plugin
 
 Ready to Demo!<br/>
-Purchased demo tokens on testnet marketplace
-Connect wallet
-Your purchased tokens will populate
-Select a token and launch
-Selected token will instantiate game object
-<br/>
+Purchased demo tokens on testnet marketplace<br/>
+Connect wallet<br/>
+Your purchased tokens will populate<br/>
+Select a token and launch<br/>
+Selected token will instantiate game object<br/>
+
 Live Demo:<br/>
 https://unicorninteractive.co/unity/unity_metamask_connect/metamask_connect/
-<br/>
+
 Plugin will be available soon for download on Itch.io, Epic Games Store & Unity Store.
 
 
